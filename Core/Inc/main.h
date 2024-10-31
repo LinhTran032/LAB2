@@ -78,6 +78,10 @@ void Error_Handler(void);
 #define SEG_5_GPIO_Port GPIOA
 #define SEG_6_Pin GPIO_PIN_15
 #define SEG_6_GPIO_Port GPIOA
+#define EN_2_Pin GPIO_PIN_3
+#define EN_2_GPIO_Port GPIOB
+#define EN_3_Pin GPIO_PIN_4
+#define EN_3_GPIO_Port GPIOB
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
